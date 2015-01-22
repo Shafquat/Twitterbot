@@ -1,0 +1,11 @@
+H:\visualstudio\Twitterbot\bin\Debug\Twitterbot.exe
+H:\visualstudio\Twitterbot\bin\Debug\Twitterbot.pdb
+H:\visualstudio\Twitterbot\bin\Debug\Hammock.ClientProfile.dll
+H:\visualstudio\Twitterbot\bin\Debug\Newtonsoft.Json.dll
+H:\visualstudio\Twitterbot\bin\Debug\TweetSharp.dll
+H:\visualstudio\Twitterbot\bin\Debug\Hammock.ClientProfile.pdb
+H:\visualstudio\Twitterbot\bin\Debug\Newtonsoft.Json.xml
+H:\visualstudio\Twitterbot\bin\Debug\TweetSharp.pdb
+H:\visualstudio\Twitterbot\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\visualstudio\Twitterbot\obj\x86\Debug\Twitterbot.exe
+H:\visualstudio\Twitterbot\obj\x86\Debug\Twitterbot.pdb
